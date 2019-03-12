@@ -22,7 +22,7 @@ dus een rotatie of verschuiving naar links uitgevoerd, in plaats van naar rechts
 Bijvoorbeeld, bij een rotatie over drie posities wordt de letter E tijdens het ontsleutelen vervangen door de
 letter B.
 
-![caesar2.png](/docs/caesar1.PNG 'Ontsleuteling')
+![caesar2.png](/docs/caesar2.png 'Ontsleuteling')
 
 Versleutel de tekst ‘Errare human est.’ met deze codering. Dit kan met 1 (lange) regel JavaScript.
 
