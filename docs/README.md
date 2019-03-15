@@ -134,5 +134,7 @@ Iedere keer de speler op de pijltjestoetsen klikt, wordt het aantalKliks verhoog
 
 ![doolhof2.png](/docs/doolhof2.png 'resultaat')
 
+## Oefening 4: Array Cardio
 
+Enkele oefeningen op map, reduce, filter en andere advanced array operaties
 
