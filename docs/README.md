@@ -1,8 +1,8 @@
 # Oefeningen Hoofdstuk 04 - Function programming met Arrays
 
-## Oefening 1: Caesarcijfer
+## Oefening 1
 
-Deel 1
+### 1. Caesarcijfer
 Het Caesarcijfer is een klassieke manier om tekstberichten te coderen (versleutelen) en te decoderen
 (ontsleutelen). Het is vernoemd naar Julius Caesar, die het gebruikte om te communiceren met zijn
 veldheren.
@@ -26,7 +26,7 @@ letter B.
 
 Versleutel de tekst ‘Errare human est.’ met deze codering. Dit kan met 1 (lange) regel JavaScript.
 
-Deel 2
+### 2. Camelize
 Schrijf een functie camelize die een woord met - zoals een-voorbeeld-string omzet naar een camelcase
 word, bijvoorbeeld eenVoorbeeldString
 
@@ -38,13 +38,13 @@ console.log(camelize('list-style-image')); // listStyleImage
 console.log(camelize('-webkit-transition')); // WebkitTransition
 ```
 
-Deel 3
+### 3. Buren
 Schrijf een functie zijnBuren(woord1, woord2) die true retourneert wanneer 2 woorden buren zijn. 2
 woorden zijn buren wanneer ze slechts 1 karakter van elkaar verschillen, bijvoorbeeld KOLDER en HOLDER
 Maak vervolgens gebruik van deze functie om te controleren of in een array elke 2 opeenvolgende
 woorden buren zijn van elkaar
 
-Deel 4
+### 4. Morse
 In morsecode wordt elk karakter van een woord vertaald naar een unieke opeenvolging van punten (.) en
 streepjes (-), en worden de vertalingen van de individuele karakters telkens van elkaar gescheiden door één
 enkele spatie.
