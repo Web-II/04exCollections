@@ -1,4 +1,4 @@
-# Oefeningen Hoofdstuk 04 - Function programming met Arrays
+## Oefeningen Hoofdstuk 04 - Functioneel programmeren met Arrays
 
 ## Oefening 1
 
