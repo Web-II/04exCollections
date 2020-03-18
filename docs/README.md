@@ -51,6 +51,14 @@ enkele spatie.
 
 Zet de gegeven tekst om in morsecode.
 
+## Oefening 4: Array Cardio
+
+Enkele oefeningen op `map`, `reduce`, `filter` en andere advanced array operaties, de oefeningen zelf vind je in de `.js` file.
+
+## Optionele oefeningen
+De volgende oefeningen maken intensief gebruik van het `canvas` element en de `api`, dit werd voor het academiejaar 2019-2020 gegeven als materie maar komt vandaag-de-dag niet meer voor in de theorie, slides of dergelijke. Aangezien het canvas element vandaag nog wordt gebruikt, maar zeker niet terug te vinden is in het merendeel van hedendaagse websites werd het werken met het `canvas` element en de `api` hiervan geschrapt uit de te kennen leerstof. De oefeningen zijn nog steeds beschikbaar en kunnen dienen om te oefenen op al de reeds geziene leerstof en daarnaast het werken met het `canvas` element en de `api`. De leerstof van functioneel programmeren zit hierin verwerkt maar is zeker en vast niet de focus, daarom zijn deze oefeningen optioneel.
+
+Als je graag deze -toch wel leuke oefeningen- maakt, lees je best even de documentatie over de `canvas` api via [deze link](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 
 ## Oefening 2: Snake
 
@@ -134,7 +142,4 @@ Iedere keer de speler op de pijltjestoetsen klikt, wordt het aantalKliks verhoog
 
 ![doolhof2.png](/docs/doolhof2.png 'resultaat')
 
-## Oefening 4: Array Cardio
-
-Enkele oefeningen op map, reduce, filter en andere advanced array operaties
 
