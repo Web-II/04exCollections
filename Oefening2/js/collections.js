@@ -1,12 +1,25 @@
-// Deel1
-const alfabet = 'ABCDEFGHIJKLMOPQRSTUVWXYZ'.split('');
-const tecoderen = 'Errare humanum est.';
-const resultaat = '';
-console.log(resultaat);
+// Deel 1
+const alfabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+const teCoderen = 'ERRARE HUMANUM EST.';
+const teDecoderen = 'SHUIHFW! BRX DUH GRLQJ JUHDW, NHHS LW XS!';
+const code = 3;
+
+const codeer = function (teCoderen, code, alfabet) {
+  // implementeer
+};
+
+const decodeer = function (teDecoderen, code, alfabet) {
+  // implementeer
+};
+
+console.log(`"${teCoderen}" is gecodeerd "${codeer(teCoderen, 3, alfabet)}"\n`);
+console.log(
+  `"${teDecoderen}" is gedecodeerd "${decodeer(teDecoderen, 3, alfabet)}"`
+);
 
 // Deel 2
 function camelize(input) {
-
+  // implementeer
 }
 
 console.log(camelize('background-color')); // backgroundColor
@@ -15,7 +28,7 @@ console.log(camelize('-webkit-transition')); // WebkitTransition
 
 // Deel 3
 function zijnBuren(word1, word2) {
-
+  // implementeer
 }
 
 const woorden = [
@@ -28,7 +41,6 @@ const woorden = [
   'VERSER',
   'VELSER'
 ];
-
 
 // Deel 4
 let morse = new Map();
@@ -82,6 +94,6 @@ morse.set('(', '-.--.');
 morse.set('=', '-...-');
 morse.set('@', '.--.-.');
 
-const tekst = "I NEED HELP WITH JAVASCRIPT SOS";
-const result = '';
+const tekst = 'I NEED HELP WITH JAVASCRIPT SOS';
+const result = ''; // result moet de tekst in morsecode bevatten
 console.log(result);
